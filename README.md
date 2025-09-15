@@ -4,9 +4,8 @@
 ### Titulo 3
 
 # Bienvenido a mi Pagina WEB
-## ¿Quien soy?
-Soy io
-
+## ¿Quien soy? 
+Soy io BR <br>
 Aprendiz de codigo por diversion
 
 ### Gracias por visitar mi sitio
